@@ -1,3 +1,5 @@
+![LOGO](https://github.com/baiju912/baiju912/blob/main/WhatsApp%20Image%202025-12-28%20at%209.56.55%20PM.jpeg)
+
 <h1 align="center">Hi 👋, I'm BAIJU YADAV</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
